@@ -1,0 +1,3 @@
+class ThereIsNoSuchHandlerException(Exception):
+    pass
+
